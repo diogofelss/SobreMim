@@ -1,17 +1,46 @@
-﻿body{
-    width:1200px;
-    margin-left:auto;
-    margin-right:auto;
+﻿body {
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: gainsboro
 }
 
-#musimethome{
-
+#musimet_home {
+    text-align: center;
+    background-color: black;
+    color: gainsboro;
 }
 
-#musimetsubmenu p{
-    text-justify:trim
+.musimet_titulo {
+    font-family: 'Open Sans Condensed', 'Arial', sans-serif;
 }
 
-h1{
-    text-align:center;
+.musimet_subtitulo {
+    font-family: 'Open Sans Condensed', 'Arial', sans-serif;
+}
+
+h1 {
+    font-family: 'Open Sans Condensed', 'Arial', sans-serif;  
+}
+
+p {
+    font-family: 'Crimson Text', 'Times new roman', serif;
+    text-align: justify;
+}
+
+main ul li{
+    font-family: 'Crimson Text', 'Times new roman', serif;
+}
+
+footer {
+    background-color: #000;
+    color: #F2FFFC;
+    font-family: 'Crimson Text', 'Times new roman', serif;
+    font-size: 13px;
+}
+
+blockquote {
+    background-color: #D9E5E3;
+    font-family: 'Crimson Text', 'Times new roman', serif;
+    font-size: 14px;
 }
