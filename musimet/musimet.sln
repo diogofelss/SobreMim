@@ -11,6 +11,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3-Domain", "3-Domain", "{12
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4-Infrastructure", "4-Infrastructure", "{1DA552A3-7E30-4F84-8E51-A0684BA91974}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "musimet", "musimet\musimet.csproj", "{41550FB2-CCF2-46DB-A11D-969D5E537CDE}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "musimet.application", "musimet.application\musimet.application.csproj", "{FCD0613D-CAEF-4ADF-B2B6-7B5E20E79504}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "musimet.domain", "musimet.domain\musimet.domain.csproj", "{04F8FC52-4427-49BD-B4F1-231C53D3603F}"
@@ -24,8 +26,6 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "musimet.data.repository", "musimet.data.repository\musimet.data.repository.csproj", "{607FAB4F-0849-4A8E-8E1E-9C3DFD6BC5A2}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "musimet.crosscutting.inversionofcontrol", "musimet.crosscutting.inversionofcontrol\musimet.crosscutting.inversionofcontrol.csproj", "{0128F519-8003-4C9A-8443-F953CAD553BF}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "musimet", "musimet\musimet.csproj", "{41550FB2-CCF2-46DB-A11D-969D5E537CDE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
