@@ -5,6 +5,18 @@
     background-color: gainsboro
 }
 
+h1 {
+    font-family: 'Open Sans Condensed', 'Arial', sans-serif;
+    padding: 30px;
+    margin-top: 0px;
+}
+
+aside {
+    background-color: black;
+    color: #F2FFFC;
+}
+
+
 #musimet_home {
     text-align: center;
     background-color: black;
@@ -19,10 +31,6 @@
     font-family: 'Open Sans Condensed', 'Arial', sans-serif;
 }
 
-h1 {
-    font-family: 'Open Sans Condensed', 'Arial', sans-serif;  
-}
-
 p {
     font-family: 'Crimson Text', 'Times new roman', serif;
     text-align: justify;
@@ -32,15 +40,20 @@ main ul li{
     font-family: 'Crimson Text', 'Times new roman', serif;
 }
 
+blockquote {
+    background-color: #D9E5E3;
+    font-family: 'Crimson Text', 'Times new roman', serif;
+    font-size: 14px;
+    padding: 20px;
+    border: 10px black solid;
+    width: 250px;
+    margin: 0;
+    box-sizing: border-box;
+}
+
 footer {
     background-color: #000;
     color: #F2FFFC;
     font-family: 'Crimson Text', 'Times new roman', serif;
     font-size: 13px;
-}
-
-blockquote {
-    background-color: #D9E5E3;
-    font-family: 'Crimson Text', 'Times new roman', serif;
-    font-size: 14px;
 }
